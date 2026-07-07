@@ -5,7 +5,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando como desenvolvedora fullastack na Alcans Telecom.
+- 💼 Trabalhando como desenvolvedora fullstack na Alcans Telecom.
 
 ## Minhas Skills
 
